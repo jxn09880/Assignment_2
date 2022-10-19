@@ -1,2 +1,3 @@
 # Assignment_2
-Jagadeesh Naidu Nelakurthi
+Student Name: Jagadeesh Naidu Nelakurthi
+student id: 700730988
